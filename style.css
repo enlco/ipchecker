@@ -1,0 +1,25 @@
+#background {
+    background: url("http://content.macnet.pro/images/staff/sierra000.jpg")
+}
+
+#logo {
+    width: 398px;
+    height: 182px;
+}
+
+.title {
+    font-family: sans-serif;
+    color: white;
+    font-size: 30px;
+}
+
+#copyright {
+    font-family: sans-serif;
+    color: white;
+    font-size: 25px;
+}
+
+#banner1 {
+    width: 621px;
+    height: 147px;
+}
