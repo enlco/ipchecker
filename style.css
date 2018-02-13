@@ -19,7 +19,12 @@
     font-size: 25px;
 }
 
-#banner1 {
-    width: 621px;
+.banner1 {
+    width: 521px;
     height: 147px;
+}
+
+#banner2 {
+    width: 767px;
+    height: 145px;
 }
