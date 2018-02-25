@@ -1,5 +1,5 @@
 #background {
-    background: url("http://content.macnet.pro/images/staff/sierra000.jpg")
+    background: url("http://images.vanyakrasawchik.com/images/staff/sierra000.jpg")
 }
 
 #logo {
@@ -33,4 +33,10 @@
     font-family: sans-serif;
     color: white;
     font-size: 10px;
+}
+
+#maintitle {
+    font-family: sans-serif;
+    color: white;
+    font-size: 40px;
 }
